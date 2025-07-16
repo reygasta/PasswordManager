@@ -2,7 +2,7 @@
 
 A secure, local, and modern password manager built with Python, Tkinter, and SQLite. This application allows you to store and manage your passwords securely on your own computer, with a sleek dark/light mode interface.
 
-![App Screenshot](<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/b2ff50ef-5f7d-401d-8557-c4b8eed07baf" />)
+![App Screenshot](https://github.com/user-attachments/assets/b2ff50ef-5f7d-401d-8557-c4b8eed07baf)
 
 
 ---
