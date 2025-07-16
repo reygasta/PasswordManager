@@ -1,0 +1,15 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual Environment folder
+venv/
+.venv/
+
+# Application Data (SENSITIVE - DO NOT UPLOAD)
+vault/
+backups/
+
+# IDE configuration folders
+.idea/
+.vscode/
